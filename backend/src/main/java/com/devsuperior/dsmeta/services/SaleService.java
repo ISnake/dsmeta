@@ -16,6 +16,7 @@ import com.devsuperior.dsmeta.repositories.SaleRepository;
 @Service
 public class SaleService {
 	
+	
 	@Autowired
 	private SaleRepository repository;
 	
